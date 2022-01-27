@@ -165,8 +165,10 @@ if up != "4":
 
 if up != "5":
        print('code for account ≠>' + '%s%s (ID ehsan kancifer @kancifer ' % (fg('red'), bg('yellow'), attr('reset')))ime.sleep(0.6)
-print(f"{green}" )
-print ("""
+
+
+if up != "5":
+       print("error - lotfan dorost vared konid")rint(f"{green}" )
 Kanal haye rubikam =
 almaytm - almaytm
 almaytm - almaytm
