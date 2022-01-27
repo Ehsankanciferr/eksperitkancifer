@@ -120,7 +120,7 @@ time.sleep(0.5)
 print ("##########")
 print ("")
 # vared kardane addad baraye gereftan kod
-up = input(" 2 channel & 3 for group & 4 for ac > > > ")
+up = input(" 2 channel & 3 for group & 4 for ac 5 ID kancifer > > > ")
 print(f"{pink} ")
 time.sleep(3.0)
 print("""
@@ -161,7 +161,10 @@ if up == "4":
 if up != "4":
         print("error - lotfan dorost vared konid")
 
-time.sleep(0.6)
+
+
+if up != "5":
+       print('code for account ≠>' + '%s%s (ID ehsan kancifer @kancifer ' % (fg('red'), bg('yellow'), attr('reset')))ime.sleep(0.6)
 print(f"{green}" )
 print ("""
 Kanal haye rubikam =
